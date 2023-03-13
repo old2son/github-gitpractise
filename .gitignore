@@ -1,3 +1,7 @@
 # My configurations:
 test2gitnore.txt
 test3.txt
+
+node_modules
+.git
+.idea
