@@ -3,5 +3,8 @@
 		"commitizen": {
 			"path": "git-cz"
 		}
+	},
+	"devDependencies": {
+		"commitizen": "^4.3.0"
 	}
 }
